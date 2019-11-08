@@ -1,8 +1,8 @@
 [{
 "BTC":
-{"amount": "0"},
+{"amount": "0", "purchasePrice": "9000"},
 "ETH":
-{"amount": "0"},
+{"amount": "0", "purchasePrice": "2.70"},
 "LINK":
-{"amount": "0"}
+{"amount": "0", "purchasePrice": "180"}
 }]
